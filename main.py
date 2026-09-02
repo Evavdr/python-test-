@@ -1,4 +1,4 @@
-print("Bonjour")
+print("Bonjour machin")
 
 print ("abc")
 print("hello")
