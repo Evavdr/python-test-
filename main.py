@@ -1,4 +1,6 @@
 print("Bonjour")
 
+print("Merci !")
+
 
 
