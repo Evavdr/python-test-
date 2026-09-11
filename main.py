@@ -11,6 +11,6 @@ f.open(QFile.ReadOnly)
 w = loader.load(f)
 f.close()
 
-w.btnHello.clicked.connect(lambda: QMessageBox.information(w, "Hello", "Hello World"))
+w.btnHello.clicked.connect(lambda: QMessageBox.information(w, "Hello", "Hello World demo"))
 w.show()
 sys.exit(app.exec())
